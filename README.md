@@ -1,5 +1,5 @@
 
- <img   src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="git" height="450" width="1200px"  >
+ <img   src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="git" height="350" width="1200px"  >
 <h1 align="center">Hi 👋, I'm Dhaval Rathod</h1>
 <h3 align="center">🔴I'm currently persuing I.T - 1st-Year🌈</h3>
 
