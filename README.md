@@ -1,9 +1,9 @@
 
  <img   src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="git" height="350" width="1200px"  >
 <h1 align="center">Hi 👋, I'm Dhaval Rathod</h1>
-<h3 align="center">🔴I'm currently persuing I.T - 1st-Year🌈</h3>
+<h3 align="center">🔴I'm currently persuing I.T -2nd-Year🌈</h3>
 
- <img  align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="git" height="400" width="500px"  >
+ <img  align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="git" height="500" width="500px"  >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv389&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv389" /> </p>
 
